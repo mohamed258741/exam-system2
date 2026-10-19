@@ -1,0 +1,18 @@
+{
+  "instructor": {
+    "password": "Farida123",
+    "updated_at": "2026-10-18T11:00:00.000Z"
+  },
+  "request_counter": 100,
+  "access_requests": [],
+  "exam_attempts": [],
+  "student_answers": {},
+  "audit_logs": [
+    {
+      "id": "init-1",
+      "action": "system_init",
+      "details": "تهيئة نظام اختبارات الإجراءات الجمركية وتحميل بنك الأسئلة (50 سؤال)",
+      "timestamp": "2026-10-18T11:00:00.000Z"
+    }
+  ]
+}

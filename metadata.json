@@ -1,0 +1,8 @@
+{
+  "name": "نظام اختبارات الإجراءات الجمركية",
+  "description": "منصة إلكترونية متكاملة لاختبارات بنك أسئلة الإجراءات الجمركية والتشريعات المنظمة للاستيراد والتصدير مع اعتماد المدرس والتصحيح الآلي والتقارير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
